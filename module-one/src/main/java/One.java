@@ -1,4 +1,4 @@
-public class One {
+public class MyClass {
 	
   public String message = "";
 	
